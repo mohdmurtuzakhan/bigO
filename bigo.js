@@ -12,3 +12,5 @@ addUpTo(10000000000);
 // addUpTo(10);
 let t2 = performance.now();
 console.log(`Time Elapsed: ${(t2-t1)/1000} seconds.`);
+
+//magic code
